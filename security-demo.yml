@@ -1,0 +1,8 @@
+name: "API Security with OpenID Connect"
+id: "security-demo"
+vars:
+  SLIDES: "google"
+modules:
+  activate:
+    - security-demo-overview
+    - unsecured-backend

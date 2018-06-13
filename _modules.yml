@@ -1,0 +1,6 @@
+modules:
+  security-demo-overview:
+    name: API Security Demo Overview
+  unsecured-backend:
+    name: Unsecured API Endpoint
+
